@@ -1,5 +1,5 @@
 <?php
-namespace uuid_to_msb_and_lsb_bit_converter;
+namespace yousufsyed\uuid_to_msb_and_lsb_bit_converter;
 
 class Uuid_converter
 {
