@@ -2,12 +2,14 @@
     "name": "yousufsyed/uuid_to_msb_and_lsb_bit_converter",
     "description": "Converts 128 bit UUIDs into two 64 bit integers as LSB and MSB. Also, builds back UUIDs from LSB and MSB.",
     "type": "library",
+    "license": "mit",
     "authors": [
         {
             "name": "yousufsyed",
             "email": "sy.yousuf9106@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     },
