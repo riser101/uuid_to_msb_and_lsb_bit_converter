@@ -8,6 +8,7 @@ This is a php library that converts 128 bit standards UUIDs into corresponding l
 ##### To break UUID into LSB and MSB bits
 
 ```require_once 'Uuid_converter.php';``` 
+
 ```$result = uuid_to_msb_and_lsb_bit_converter\Uuid_converter::breakIntoMsbLsbBits('081815e8-9860-11e7-abc4-cec278b6b50a');```
 
 Output of $result
